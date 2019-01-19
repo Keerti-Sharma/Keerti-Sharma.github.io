@@ -1,6 +1,6 @@
 ---
 title: Keerti Sharma
-description: Grad Student
+description: Grad Student and full time employee 
 ---
 
 ![My Picture](/pics/1.jpg)
