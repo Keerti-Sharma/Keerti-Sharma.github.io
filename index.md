@@ -1,6 +1,6 @@
 ---
-title: Keerti
-description: My page
+Title: Keerti
+Description: My page
 ---
 
 This is content for my homework assignment: 
