@@ -5,4 +5,4 @@ Description: William & Mary
 
 Here is some sample lecture for my CTBA coursework
 - [Jupyter Introduction (html)](JupyterIntroduction.html)
-- [Jupyter Introduction (ipynb)](JupyterIntroduction (2).ipynb)
+- [Jupyter Introduction (ipynb)](JupyterIntroduction.ipynb)
