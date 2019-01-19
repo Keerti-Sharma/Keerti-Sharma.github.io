@@ -3,7 +3,7 @@ title: Keerti Sharma
 description: Grad Student
 ---
 
-![My Picture](/pics/i.jpg)
+![My Picture](/pics/1.jpg)
 
 This is content for my homework assignment: 
 
